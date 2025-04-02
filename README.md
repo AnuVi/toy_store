@@ -53,5 +53,17 @@ Not to be shown in the reports
 ![image](https://github.com/user-attachments/assets/49841419-f271-49ae-b808-3ef90b07f06d)
 - Adding new column _Cost_
 ![image](https://github.com/user-attachments/assets/53ae4779-5427-4453-84f7-e5a5d1f6f559)
-- Pulling the data from another table with **RELATION** function
+- Pulling the data from another table with **RELATED** function
+![image](https://github.com/user-attachments/assets/3802344f-f0b4-4dca-8da0-99cd8b723563)
+- Adding new column _Revenue_ (Tulu) and calculating it Units*Price for each product. 
+![image](https://github.com/user-attachments/assets/af5c85b4-d64b-461b-a064-0ac51514cd18)
+- New column _Profit_ and calculating it Revenue-Unit*Cost
+  ![image](https://github.com/user-attachments/assets/617eb9c7-2002-4ca8-876a-01fc432e128c)
+- New _Measure_ from _Reports_ View and Sales Table
+  ![image](https://github.com/user-attachments/assets/9d140389-cda7-4297-ad87-bf86e8752eb5)
+  Total Order and **DISTINCTCOUNT** function
+  Total Profit and Total Revenue
+  ![image](https://github.com/user-attachments/assets/fa04e06d-a1a8-4861-93f6-3d396a90a993)
+
+
 
